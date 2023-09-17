@@ -17,7 +17,7 @@ Experience the thrill of BlockStorm and test your skills in this exciting twist 
 # Installation
 
 ```bash
-pip install
+npm i
 ```
 
 # Usage

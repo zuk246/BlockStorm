@@ -1,14 +1,14 @@
 {
-  "name": "blockstorm",
-  "version": "1.0.0",
-  "description": "Simple block breaking",
-  "main": "index.js",
-  "scripts": {
-    "dev": "npx serve"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/izuka0000/Breakerem.git"
-  },
-  "author": "iizuka-0000"
+    "name": "blockstorm",
+    "version": "1.0.0",
+    "description": "Simple block breaking",
+    "main": "index.js",
+    "scripts": {
+        "dev": "npx serve"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/izuka0000/Breakerem.git"
+    },
+    "author": "zuk246"
 }
